@@ -1,0 +1,5 @@
+{
+  "Cities": ["Saint Petersburg", "Moscow", "Chelyabinsk", "Minsk", "Kazan", "Boston"],
+  "UpdateRate_minutes": 3,
+  "ForecastDays": 2
+}
